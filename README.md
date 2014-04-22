@@ -1,4 +1,4 @@
-=== BluetoothFrameworkDemo ===
+# BluetoothFrameworkDemo #
 
 This is an example Android-Application that demonstrates one possible use-case of the BluetoothFramework Library, which is also published here. 
 
